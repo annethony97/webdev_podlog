@@ -4,7 +4,8 @@
 <h2>Team Name</h2>
 <p>The MupGits</p>
 
-<h2>Name of Application</h2>
+<h2>Name of Application</h2
+<p>PodLog</p>
 
 
 <h2>Application Description</h2>
