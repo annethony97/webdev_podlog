@@ -24,7 +24,7 @@
 
 <h2>Tools/Software</h2>
 <ul>
-  <li>API: <a href="https://podcastindex-org.github.io/docs-api/?ref=dr-pa&utm_source=public-apis-website&utm_medium=referral#overview--overview">Podcast Index</a></li>
+  <li>API: <a href="https://podcastindex-org.github.io/docs-api/?ref=dr-pa&utm_source=public-apis-website&utm_medium=referral#overview--overview" target="_blank">Podcast Index</a></li>
 </ul>
   
 <p>Provide your name or the team's name</p>
