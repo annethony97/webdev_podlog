@@ -2,13 +2,18 @@
 <h1>Assignment 1</h1>
 
 <h2>Team Name</h2>
-<p>The Mupgits</p>
+<p>The MupGits</p>
 
 <h2>Name of Application</h2>
 
 
 <h2>Application Description</h2>
-
+<p>PodLog is a social-cataloging app for podcasts. Users can connect with friends, rate and share individual episodes or podcasts, find recommendations, and list and track what they're listening to.</p>
+<ul>
+  <li>Randomizer for recommendations for podcasts with API integration for data.</li>
+  <li>Build out the social connection portion, user accounts, profiles, etc.</li>
+  <li>Database and user profile tracking for current and finished, listening states.</li>
+</ul>
 
 <h2>Purpose</h2>
 
