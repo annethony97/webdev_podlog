@@ -26,6 +26,9 @@
 
 
 <h2>Goals</h2>
+<p>1. Have a reliable and accurate search function</p>
+<p>2. Have a deep catalog of podcasts to pull from </p>
+<p>3. Have a proper profile set-up</p>
 
 
 <h2>Tools/Software</h2>
