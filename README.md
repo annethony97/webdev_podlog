@@ -17,7 +17,7 @@
 </ul>
 
 <h2>Purpose</h2>
-
+<p>There are a few similar apps that already exist, like Podchaser and Goodpods, but they are both listening platforms with social features, whereas this app will be solely focused on tracking and socials. Modeled similarly to Letterboxd. </p>
 
 <h2>Target Audience</h2>
 <p>Podcast Listeners</p>
