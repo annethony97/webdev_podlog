@@ -23,7 +23,15 @@
 <p>Podcast Listeners</p>
 
 <h2>Application Pages/Structure</h2>
-
+<ul>
+  <li>Sign-up/Log-in page</li>
+  <li>Main Dashboard (users can see new posts from their friends or podcasts they’re following)</li>
+  <li>Profile Page (shows followers and following, their logged episodes/shows, created lists)</li>
+  <li>Search Function (search for shows and episodes)</li>
+  <li>Recommendation Feed</li>
+  <li>User unique links for sharing</li>
+  <li>Episode/podcast pages</li>
+</ul>
 
 <h2>Goals</h2>
 <p>1. Have a reliable and accurate search function</p>
@@ -34,13 +42,7 @@
 <h2>Tools/Software</h2>
 <ul>
   <li>API: <a href="https://podcastindex-org.github.io/docs-api/?ref=dr-pa&utm_source=public-apis-website&utm_medium=referral#overview--overview" target="_blank">Podcast Index</a></li>
+  <li>Claude Pro</li>
+  <li>Git</li>
+  <li>Visual Studio Code</li>
 </ul>
-  
-<p>Provide your name or the team's name</p>
-<p>Name of the application</p>
-<p>Description of application *Describe how someone will use your application</p>
-<p>Describe the need and purpose of the application</p>
-<p>Intended target audience</p>
-<p>Identify the various pages your application will have and describe what users will be able to accomplish</p>
-<p>Identify three goals of the application</p>
-<p>Identify tools/software you will use to complete the project.</p>
